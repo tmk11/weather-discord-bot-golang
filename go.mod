@@ -1,4 +1,4 @@
-module discord_bot_nhietdo
+module weather-discord-bot-golang
 
 go 1.19
 
