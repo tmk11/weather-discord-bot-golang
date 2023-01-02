@@ -1,4 +1,4 @@
-module weather-discord-bot-golang
+module github.com/tmk11/weather-discord-bot-golang
 
 go 1.19
 
