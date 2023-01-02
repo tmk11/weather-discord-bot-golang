@@ -8,7 +8,7 @@ import (
 	"strings"
 
 	"github.com/bwmarrin/discordgo"
-	"weather-discord-bot-golang/weather"
+	"ithub.com/tmk11/weather-discord-bot-golang/weather"
 )
 
 // Variables used for command line parameters
